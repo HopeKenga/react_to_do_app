@@ -12,4 +12,6 @@ npm start
 ```
 ![Screenshot](https://github.com/HopeKenga/react_to_do_app/blob/main/Capture.PNG)
 
-![GIF](https://github.com/HopeKenga/react_to_do_app/blob/main/ezgif.com-gif-maker%20(3).gif)
+![GIF](https://github.com/HopeKenga/react_to_do_app/blob/main/ezgif.com-gif-maker%20(4).gif)
+
+
